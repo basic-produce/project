@@ -307,6 +307,7 @@
 }
 
 body {
+    width: 300px;
     background-color: #fff;
     padding: 25px;
     font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -508,7 +509,7 @@ hr {
 }
 
 footer {
-    width: 270px;
+    width: 180px;
     float: left;
     position: fixed;
     bottom: 50px;
