@@ -12,7 +12,7 @@ Rolling forecasting and forecast tracking combined, I called the report forecast
 
 Below is the basic database relationship, although, in reality, there can be a lot more data involved due to the business demand. 
 
-![Database Diagram](assets/database diagram.drawio.png)
+![Database Diagram](assets/database_diagram.png)
 
 The data to feed into PowerBI report was queried and exported as a CSV file to feed into PowerBI, however, more direct connection between PowerBI and the company’s database was under the setting up process.
 ## SQL Query
@@ -35,7 +35,7 @@ Other slicer can also be applied:
 
 ### Score cards:
 
-![Scaore Cards](assets/score_cards)
+![Score Cards](assets/score_cards.png)
 
 The month of the version is June therefore, the month-on-month comparison would be between June and May. In this case, there was a reduction of nearly 10% of the total revenue forecasted in June compared to May, which is significant, and an ad-hoc meeting was appointed with the main person in charge of forecast version June for cross-checking. 
 
