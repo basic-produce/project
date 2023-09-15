@@ -7,7 +7,8 @@ In my role, I took part in both maintaining the monthly rolling cash flow foreca
 
 Rolling forecasting and forecast tracking combined, I called the report forecast tracking; PowerBI embedded publish link.
 
-**Disclaimer: The data was censored or edited to protect my previous company's privacy.**
+***Disclaimer: The data was censored or edited to protect my previous company's privacy.***
+
 ![image](https://github.com/basic-produce/project/assets/94334516/6e814c6c-ad86-48d8-9a35-8d1b37243661)
 
 Below is the basic database relationship, although, in reality, there can be a lot more data involved due to the business demand. 
