@@ -1,4 +1,4 @@
-#  __ 
+ 
 ## Context
 I have worked for an e-commerce company, where cash flow forecasting was an essential part of the operation. The company's main market was American, and products were sold via Amazon. Needless to say, the competition was a real deal and to be able to make financial and operational decisions based on patterns of data, which were aggregated and analyzed to predict future trends and changes was a must-do. 
 
