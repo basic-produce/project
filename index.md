@@ -1,10 +1,10 @@
-[### Main portfolio](https://basic-produce.github.io)
+[Main portfolio](https://basic-produce.github.io)
 ## Context
-I have worked for an e-commerce company, where cash flow forecasting was an essential part of the operation. The company's main market was American, and products were sold via Amazon. Needless to say, the competition was a real deal and to be able to make financial and operational decisions based on patterns of data, which were aggregated and analyzed to predict future trends and changes was a must-do. 
+I have worked for an e-commerce company, where cash flow forecasting was an essential part of the operation. The company's main market was American, and products were sold via Amazon. Needless to say, the competition was a real deal and to be able to make financial and operational decisions based on future trends and changes patterns of data, which were aggregated and analyzed to predict was a must-do. 
 
-In my role, I took part in both maintaining the monthly rolling cash flow forecasting and also evaluating the accuracy of the forecast. Evaluating the accuracy of the forecast was crucial because it proved the monthly rolling cash flow forecasting I produced each month was legit and reliable in making the right decisions.
+In my role, I involved in both maintaining the monthly rolling cash flow forecasting and evaluating the accuracy of the forecast. Evaluating the accuracy of the forecast was crucial because it proved the monthly rolling cash flow forecasting I produced each month was legit and reliable in making the right decisions.
 
-Rolling forecasting and forecast tracking combined, I called the report forecast tracking; PowerBI embedded publish link.
+Visisualization of rolling forecasting and forecast tracking combined, we called the report Forecast Tracking: [PowerBI embedded publish link](https://app.powerbi.com/view?r=eyJrIjoiYzFkM2YzMTQtMjhhOS00NGE0LTgzMzEtYTBlMTBmNWY3Nzk0IiwidCI6Ijk0YzBmYWUxLWY5MDEtNDMwZi05ZTkyLWJiMGZkNzMxZTlmNCIsImMiOjEwfQ%3D%3D)
 
 ***Disclaimer: The data was censored or edited to protect my previous company's privacy.***
 
@@ -26,7 +26,7 @@ The main visualization of the chart is the line column chart. The columns repres
 
 The lines can be toggled on and off using the slicer below, which is the same colors of the lines. You can try it yourself. [Link](https://app.powerbi.com/view?r=eyJrIjoiYzFkM2YzMTQtMjhhOS00NGE0LTgzMzEtYTBlMTBmNWY3Nzk0IiwidCI6Ijk0YzBmYWUxLWY5MDEtNDMwZi05ZTkyLWJiMGZkNzMxZTlmNCIsImMiOjEwfQ%3D%3D)
 
-Other slicer can also be applied:
+Other slicers can also be applied:
 
 - category/sku
 - months
@@ -37,11 +37,11 @@ Other slicer can also be applied:
 
 ![Score Cards](assets/score_cards.png)
 
-The month of the version is June therefore, the month-on-month comparison would be between June and May. In this case, there was a reduction of nearly 10% of the total revenue forecasted in June compared to May, which is significant, and an ad-hoc meeting was appointed with the main person in charge of forecast version June for cross-checking. 
+The month of the version is June therefore, the month-on-month comparison would be between June and May. In this case, there was a reduction of nearly 10% of the total revenue forecasted in June compared to May, which is significant, and an ad-hoc meeting was appointed with the main person in charge of the forecast for cross-checking. 
 
-And for the actual revenue of June versus the previous version. Lag 1 was compared to revenue forecasted for June to May, lag 2 is April, and so on. The further the lag was, the accuracy started to drop aggressively.  
+And for the actual revenue of June versus the previous version. Lag 1 was compared the total of actual revenue of June with the forecasted couterpart in May forecast version, lag 2 compared with April, and so on. The further the lag was, the accuracy started to drop aggressively.  
 
 ## Conclusion
-This is the basic forecast tracking that is required in my business, although it varies on business and will require more or fewer features. 
+Although it may vary on businesses, these metircs more or less are the basic requirement in Forecast Tracking.
 
-The column and lines combined with the element can be toggled on and off to help in the integrating data aspect, I don’t need to build too many sets of data or separate visualizations, in fact, I can always add more versions (more lines) and give people the choices whether to view that month or not.
+The column and lines combined with the element can be toggled on and off helps in the integrating data aspect, I don’t need to build too many sets of data or separate visualizations, in fact, I can always add more versions (more lines) and give people the choices whether to view that month or not.
