@@ -42,6 +42,6 @@ The month of the version is June therefore, the month-on-month comparison would 
 And for the actual revenue of June versus the previous version. Lag 1 was compared the total of actual revenue of June with the forecasted couterpart in May forecast version, lag 2 compared with April, and so on. The further the lag was, the accuracy started to drop aggressively.  
 
 ## Conclusion
-This is more or less the basic requirement in my business, although it varies on businesses and will require more or fewer features. 
+Although it may vary on businesses, these metircs more or less are the basic requirement in Forecast Tracking.
 
 The column and lines combined with the element can be toggled on and off helps in the integrating data aspect, I don’t need to build too many sets of data or separate visualizations, in fact, I can always add more versions (more lines) and give people the choices whether to view that month or not.
