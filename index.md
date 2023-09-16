@@ -4,7 +4,7 @@ I have worked for an e-commerce company, where cash flow forecasting was an esse
 
 In my role, I involved in both maintaining the monthly rolling cash flow forecasting and evaluating the accuracy of the forecast. Evaluating the accuracy of the forecast was crucial because it proved the monthly rolling cash flow forecasting I produced each month was legit and reliable in making the right decisions.
 
-Visisualization of rolling forecasting and forecast tracking combined, we called the report Forecast Tracking: [PowerBI embedded publish link]((https://app.powerbi.com/view?r=eyJrIjoiYzFkM2YzMTQtMjhhOS00NGE0LTgzMzEtYTBlMTBmNWY3Nzk0IiwidCI6Ijk0YzBmYWUxLWY5MDEtNDMwZi05ZTkyLWJiMGZkNzMxZTlmNCIsImMiOjEwfQ%3D%3D)
+Visisualization of rolling forecasting and forecast tracking combined, we called the report Forecast Tracking: [PowerBI embedded publish link](https://app.powerbi.com/view?r=eyJrIjoiYzFkM2YzMTQtMjhhOS00NGE0LTgzMzEtYTBlMTBmNWY3Nzk0IiwidCI6Ijk0YzBmYWUxLWY5MDEtNDMwZi05ZTkyLWJiMGZkNzMxZTlmNCIsImMiOjEwfQ%3D%3D)
 
 ***Disclaimer: The data was censored or edited to protect my previous company's privacy.***
 
