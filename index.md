@@ -1,10 +1,10 @@
 [Main portfolio](https://basic-produce.github.io)
 ## Context
-I have worked for an e-commerce company, where cash flow forecasting was an essential part of the operation. The company's main market was American, and products were sold via Amazon. Needless to say, the competition was a real deal and to be able to make financial and operational decisions based on patterns of data, which were aggregated and analyzed to predict future trends and changes was a must-do. 
+I have worked for an e-commerce company, where cash flow forecasting was an essential part of the operation. The company's main market was American, and products were sold via Amazon. Needless to say, the competition was a real deal and to be able to make financial and operational decisions based on future trends and changes patterns of data, which were aggregated and analyzed to predict was a must-do. 
 
-In my role, I took part in both maintaining the monthly rolling cash flow forecasting and also evaluating the accuracy of the forecast. Evaluating the accuracy of the forecast was crucial because it proved the monthly rolling cash flow forecasting I produced each month was legit and reliable in making the right decisions.
+In my role, I involved in both maintaining the monthly rolling cash flow forecasting and evaluating the accuracy of the forecast. Evaluating the accuracy of the forecast was crucial because it proved the monthly rolling cash flow forecasting I produced each month was legit and reliable in making the right decisions.
 
-Rolling forecasting and forecast tracking combined, I called the report forecast tracking; PowerBI embedded publish link.
+Visisualization of rolling forecasting and forecast tracking combined, we called the report Forecast Tracking: [PowerBI embedded publish link]((https://app.powerbi.com/view?r=eyJrIjoiYzFkM2YzMTQtMjhhOS00NGE0LTgzMzEtYTBlMTBmNWY3Nzk0IiwidCI6Ijk0YzBmYWUxLWY5MDEtNDMwZi05ZTkyLWJiMGZkNzMxZTlmNCIsImMiOjEwfQ%3D%3D)
 
 ***Disclaimer: The data was censored or edited to protect my previous company's privacy.***
 
