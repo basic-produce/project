@@ -16,7 +16,7 @@ Below is the basic database relationship, although, in reality, there can be a l
 
 The data to feed into PowerBI report was queried and exported as a CSV file to feed into PowerBI, however, more direct connection between PowerBI and the company’s database was under the setting up process.
 ## SQL Query
-Full mySQL query can be found on this [link](https://github.com/basic-produce/Data_Port/blob/main/PowerBI/Forecast%20tracking/foreast_track_query.sql). Mostly try to join the revenue columns from actual and forecasting tables, redefine some attributes with CASE function and format the date time data type.
+Full mySQL query can be found in this link: [Full Query](https://github.com/basic-produce/Data_Port/blob/main/PowerBI/Forecast%20tracking/foreast_track_query.sql). Mostly try to join the revenue columns from actual and forecasting tables, redefine some attributes with CASE function and format the date time data type.
 ## Visualization
 
 ### Line Column Chart
