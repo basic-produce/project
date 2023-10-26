@@ -12,7 +12,7 @@ Visisualization of rolling forecasting and forecast tracking combined, we called
 
 ![Overview Tab](assets/Overview_tab.png)
 
-Below is the basic database relationship, although, in reality, there can be a lot more data involved due to the business demand. 
+Below is the basic database relationship, in this case, it's a simple star schema meanwhile in reality, there can be a lot more data involved due to the business demand. 
 
 ![Database Diagram](assets/database_diagram.png)
 
