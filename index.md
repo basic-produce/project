@@ -19,7 +19,7 @@ Below is the basic database relationship, in this case, it's a simple star schem
 ## SQL Query
 "Data should be transformed as far upstream as possible, and as far downstream as necessary."
 
-I transformed the data using mySQL. Full mySQL query can be found in this link: [Full Query](https://github.com/thong-pm/Data_Port/blob/main/PowerBI/Forecast%20tracking/foreast_track_query.sql). Mostly try to join the revenue columns from actual and forecasting tables, redefine some attributes with CASE function and format the date time data type.
+I extracted and transformed the data using mySQL. Full mySQL query can be found in this link: [Full Query](https://github.com/thong-pm/Data_Port/blob/main/PowerBI/Forecast%20tracking/foreast_track_query.sql). Mostly try to join the revenue columns from actual and forecasting tables, redefine some attributes with CASE function and format the date time data type.
 ## Visualization
 
 ### Line Column Chart
