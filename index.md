@@ -51,4 +51,4 @@ And for the actual revenue of June versus the previous version. Lag 1 was compar
 ## Conclusion
 Although it may vary on businesses, these metircs more or less are the a requirement in Forecast Tracking.
 
-The column and lines combined with the element can be toggled on and off helps in the integrating data aspect, I don’t need to build too many sets of data or separate visualizations, in fact, I can always add more versions (more lines) and give people the choices whether to view that month or not.
+The columns and lines combined with the element can be toggled on and off helps in the data transformation aspect, only 1 csv file was extracted in the process. No need to build too many sets of data or separate visualizations, in fact, I can always add more month versions (more lines) and give people the choices whether to view that month or not.
