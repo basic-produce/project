@@ -15,6 +15,7 @@ mySQL file: [Query file](https://github.com/thong-pm/Data_Port/blob/main/PowerBI
 live version: [PowerBI embedded publish link](https://app.powerbi.com/view?r=eyJrIjoiYzFkM2YzMTQtMjhhOS00NGE0LTgzMzEtYTBlMTBmNWY3Nzk0IiwidCI6Ijk0YzBmYWUxLWY5MDEtNDMwZi05ZTkyLWJiMGZkNzMxZTlmNCIsImMiOjEwfQ%3D%3D)
 
 Visisualization of rolling forecasting and forecast tracking combined, we called the report Forecast Tracking
+
 ***Disclaimer: The data was censored or edited to protect my previous company's privacy.***
 
 ![Overview Tab](assets/Overview_tab.png)
