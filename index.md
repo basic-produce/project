@@ -10,7 +10,7 @@ In my role, I involved in both maintaining the monthly rolling cash flow forecas
 ### Resource:
 pbix file: [pbix file](https://github.com/thong-pm/Data_Port/blob/45b2e9193cb5df68c06d621bad574048690db11f/PowerBI/1.%20Cashflow%20forecast%20tracking/Business%20Forecast%20Tracking.pbix)
 
-mySQL file: [Query file](https://github.com/thong-pm/Data_Port/blob/main/PowerBI/Forecast%20tracking/foreast_track_query.sql)
+mySQL file: [Query file](https://github.com/thong-pm/Data_Port/blob/cc4c26cfecd092f5300bec132919fbaf97e3a32a/PowerBI/1.%20Cashflow%20forecast%20tracking/foreast_track_query.sql)
 
 live version: [PowerBI embedded publish link](https://app.powerbi.com/view?r=eyJrIjoiYzFkM2YzMTQtMjhhOS00NGE0LTgzMzEtYTBlMTBmNWY3Nzk0IiwidCI6Ijk0YzBmYWUxLWY5MDEtNDMwZi05ZTkyLWJiMGZkNzMxZTlmNCIsImMiOjEwfQ%3D%3D)
 
