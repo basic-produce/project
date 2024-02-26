@@ -84,3 +84,7 @@ Although it may vary on businesses, for my case, these metircs more or less are 
 The columns and lines combined with the element can be toggled on and off helps in the data transformation aspect, only 1 csv file was extracted in the process. No need to build too many sets of data or separate visualizations.
 
 In fact, I can always add more month versions (more lines) and add the slicers to select which lines should appear.
+
+[Back to main portfolio](https://thong-pm.github.io/)
+
+
