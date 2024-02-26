@@ -17,7 +17,7 @@ I do know everybody has their expertise and problems and I gladly help the life 
 
 By transforming data into visuals that are easy on the eyes.
 
-I've clocked time at an e-commerce gig where our battlefield was the US market, hustling products on Amazon.
+This is one of the projects I've tackled when I clocked time at an e-commerce gig where our battlefield was the US market, hustling products on Amazon.
 
 ### Resource:
 pbix file: [pbix file](https://github.com/thong-pm/Data_Port/blob/45b2e9193cb5df68c06d621bad574048690db11f/PowerBI/1.%20Cashflow%20forecast%20tracking/Business%20Forecast%20Tracking.pbix)
