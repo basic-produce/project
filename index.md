@@ -3,9 +3,21 @@
 <iframe title="Business Forecast Tracking" width="1000" height="500" src="https://app.powerbi.com/view?r=eyJrIjoiYzFkM2YzMTQtMjhhOS00NGE0LTgzMzEtYTBlMTBmNWY3Nzk0IiwidCI6Ijk0YzBmYWUxLWY5MDEtNDMwZi05ZTkyLWJiMGZkNzMxZTlmNCIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
 
 ## Context
-I have worked for an e-commerce company, where cash flow forecasting was an essential part of the operation. The company's main market was American, and products were sold via Amazon. Needless to say, the competition was a real deal and to be able to make financial and operational decisions based on future trends and changes patterns of data, which were aggregated and analyzed to predict was a must-do. 
+Visualization! 
 
-In my role, I involved in both maintaining the monthly rolling cash flow forecasting and evaluating the accuracy of the forecast. Evaluating the accuracy of the forecast was crucial because it proved the monthly rolling cash flow forecasting I produced each month was legit and reliable in making the right decisions.
+It's fun. Think of it as your first baby step before you start sprinting through the playground of simpler things, like:
+
+"Making financial and operational decisions based on crystal-gazing into future trends and the mystical dance of data patterns."
+
+I don't make business decisions, I assume it is easier than data visualization...right?
+
+Joke aside.
+
+I do know everybody has their expertise and problems and I gladly help the life of guys struggling to drive the company a little bit easier.
+
+By transforming data into visuals that are easy on the eyes.
+
+I've clocked time at an e-commerce gig where our battlefield was the US market, hustling products on Amazon.
 
 ### Resource:
 pbix file: [pbix file](https://github.com/thong-pm/Data_Port/blob/45b2e9193cb5df68c06d621bad574048690db11f/PowerBI/1.%20Cashflow%20forecast%20tracking/Business%20Forecast%20Tracking.pbix)
@@ -25,13 +37,21 @@ Below is the basic database relationship, in this case, it's a simple star schem
 ![Database Diagram](assets/database_diagram.png)
 
 ## SQL Query
+Words from the legends:
+
 "Data should be transformed as far upstream as possible, and as far downstream as necessary."
 
-I extracted and transformed the data using mySQL. Full mySQL query can be found in this link: [Full Query](https://github.com/thong-pm/Data_Port/blob/main/PowerBI/Forecast%20tracking/foreast_track_query.sql). Mostly try to join the revenue columns from actual and forecasting tables, redefine some attributes with CASE function and format the date time data type.
+I extracted and transformed the data using mySQL. 
+
+Full mySQL query can be found in this link: [Full Query](https://github.com/thong-pm/Data_Port/blob/main/PowerBI/Forecast%20tracking/foreast_track_query.sql). 
+
+Mostly try to join the revenue columns from actual and forecasting tables, redefine some attributes with CASE function and format the date time data type.
 ## Visualization
 
 ### Line Column Chart
-The main visualization of the chart is the line column chart. The columns represents revenue has been gathered. While the lines are the forecast versions, usually 3 or 4 latest months.
+The main visualization of the chart is the line column chart. 
+
+The columns represents revenue has been gathered. While the lines are the forecast versions, usually 3 or 4 latest months.
 
 ![Line And Column](assets/line_and_column_chart.png)
 
@@ -48,11 +68,19 @@ Other slicers can also be applied:
 
 ![Score Cards](assets/score_cards.png)
 
-The month of the version is June therefore, the month-on-month comparison would be between June and May. In this case, there was a reduction of nearly 10% of the total revenue forecasted in June compared to May, which is significant, and an ad-hoc meeting was appointed with the main person in charge of the forecast for cross-checking. 
+The month of the version is June therefore, the month-on-month comparison would be between June and May. 
 
-And for the actual revenue of June versus the previous version. Lag 1 was compared the total of actual revenue of June with the forecasted couterpart in May forecast version, lag 2 compared with April, and so on. The further the lag was, the accuracy started to drop aggressively.
+In this case, there was a reduction of nearly 10% of the total revenue forecasted in June compared to May, which was significant.
+
+And for the actual revenue of June versus the previous version. Lag 1 was compared the total of actual revenue of June with the forecasted couterpart in May forecast version, lag 2 compared with April, and so on. 
+
+"The further the lag was, the accuracy started to drop aggressively." said calmly the Data Analyst.
+
+Ad-hoc meetings were appointed for cross-checking.
 
 ## Conclusion
-Although it may vary on businesses, these metircs more or less are the a requirement in Forecast Tracking.
+Although it may vary on businesses, for my case, these metircs more or less are the a requirement in Forecast Tracking.
 
-The columns and lines combined with the element can be toggled on and off helps in the data transformation aspect, only 1 csv file was extracted in the process. No need to build too many sets of data or separate visualizations, in fact, I can always add more month versions (more lines) and give people the choices whether to view that month or not.
+The columns and lines combined with the element can be toggled on and off helps in the data transformation aspect, only 1 csv file was extracted in the process. No need to build too many sets of data or separate visualizations.
+
+In fact, I can always add more month versions (more lines) and add the slicers to select which lines should appear.
