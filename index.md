@@ -11,11 +11,11 @@ It's fun. Think of it as your first baby step before you start sprinting through
 
 Joke aside.
 
-Everybody has their expertise and problems, and viusalization helps the life of the guys who is struggling to drive the company a little bit easier.
+Everybody has their expertise and problems.
 
-By transforming data into visuals that are easy on the eyes.
+By transforming data into visuals that are easy on the eyes. Helps the life of some co-worker's life-struggling looking at tables and numbers-a little bit easier.
 
-This is one of the projects I've tackled when I clocked time at an e-commerce firm where our battlefield was the US market, hustling products on Amazon.
+This is one of the projects I've tackled when I clocked time at an E-Commerce firm where our battlefield was the US market, hustling products on Amazon.
 
 ### Resource:
 pbix file: [pbix file](https://github.com/thong-pm/Data_Port/blob/45b2e9193cb5df68c06d621bad574048690db11f/PowerBI/1.%20Cashflow%20forecast%20tracking/Business%20Forecast%20Tracking.pbix)
