@@ -11,7 +11,7 @@ It's fun. Think of it as your first baby step before you start sprinting through
 
 Joke aside.
 
-Everybody has their expertise and problems, and viusalization helps the life of guys struggling to drive the company a little bit easier.
+Everybody has their expertise and problems, and viusalization helps the life of the guys who is struggling to drive the company a little bit easier.
 
 By transforming data into visuals that are easy on the eyes.
 
