@@ -41,7 +41,7 @@ Words from the legends:
 
 I extracted and transformed the data using mySQL. 
 
-Full mySQL query can be found in this link: [Full Query](https://github.com/thong-pm/Data_Port/blob/main/PowerBI/Forecast%20tracking/foreast_track_query.sql). 
+Full mySQL query can be found in this link: [Full Query][(https://github.com/thong-pm/Data_Port/blob/main/PowerBI/Forecast%20tracking/foreast_track_query.sql](https://github.com/thong-pm/Data_Port/blob/bcbcc8729f7483107e19a2ce293a1551210873ea/PowerBI/1.%20Cashflow%20forecast%20tracking/foreast_track_query.sql)). 
 
 Mostly try to join the revenue columns from actual and forecasting tables, redefine some attributes with CASE function and format the date time data type.
 ## Visualization
