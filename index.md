@@ -83,6 +83,6 @@ The columns and lines combined with the element can be toggled on and off helps 
 
 In fact, I can always add more month versions (more lines) and add the slicers to select which lines should appear.
 
-[Chack out more](https://thong-pm.github.io/)
+[Check out more](https://thong-pm.github.io/)
 
 
